@@ -1,2 +1,2 @@
-# jega_veer_pandian
+# jega-veer-pandian
 name
